@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "GEATS-BOT" //namabot kalian
 global.ownername= "GEATS" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://instagram.com/rizzsf?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC2RSo-DWydmr7qH2G_reVbQ" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0" //bebas
 global.email = "rizkyshando@gmail.com" //bebas
